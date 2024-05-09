@@ -1,0 +1,22 @@
+{
+  "assistantPro": "Ассистент Про",
+  "newChat": "Новый чат",
+  "typeChatName": "Придумайте название для чата",
+  "chatName": "Название чата",
+  "cancel": "Отмена",
+  "create": "Создать",
+  "deleteChatQuestion": "Удалить чат \"{chatName}\"?",
+  "@deleteChatQuestion": {
+    "placeholders": {
+      "chatName": {
+        "type": "String"
+      }
+    }
+  },
+  "no": "Нет",
+  "yesDelete": "Да, удалить",
+  "chat": "Чат",
+  "typeNewChatName": "Введите новое название чата",
+  "newChatName": "Новое название чата",
+  "rename": "Переименовать"
+}

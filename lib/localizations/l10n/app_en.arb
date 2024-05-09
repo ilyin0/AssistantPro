@@ -1,0 +1,22 @@
+{
+  "assistantPro": "Assistant Pro",
+  "newChat": "New chat",
+  "typeChatName": "Type chat name",
+  "chatName": "Chat name",
+  "cancel": "Cancel",
+  "create": "Create",
+  "deleteChatQuestion": "Delete chat \"{chatName}\"?",
+  "@deleteChatQuestion": {
+    "placeholders": {
+      "chatName": {
+        "type": "String"
+      }
+    }
+  },
+  "no": "No",
+  "yesDelete": "Yes, delete",
+  "chat": "Chat",
+  "typeNewChatName": "Type new chat name",
+  "newChatName": "New chat name",
+  "rename": "Rename"
+}
